@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👻👻👻
 
 <!--
 **NN-RED/NN-RED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
